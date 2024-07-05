@@ -38,6 +38,7 @@ const sendMessage = (
       },
     },
   };
+  console.log(message, phone)
 
   if (delaySeconds > 0) {
     return new Promise((resolve, reject) => {
