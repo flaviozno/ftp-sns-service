@@ -1,0 +1,11 @@
+node_modules/
+
+.env
+
+ftpdata/
+
+conf/
+
+src/download/*.csv
+
+dist/
